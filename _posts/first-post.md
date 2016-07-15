@@ -1,5 +1,5 @@
 ---
-layout: post
-title: asdf
-----
-first post on the blog
+layout: page
+title: About
+permalink: /about/
+---og
